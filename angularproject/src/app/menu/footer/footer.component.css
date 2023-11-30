@@ -1,0 +1,45 @@
+
+
+.row{
+  padding: 10px 20px;
+  background-color: black;
+}
+.footer-pad h4{
+  font-size: 20px;
+  font-weight: 600;
+}
+.footer-pad a{
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+  font-weight: lighter;
+
+}
+.footer-pad a:hover{
+color: #ff7900;
+}
+
+#logofooter{
+margin: 0 auto;
+}
+#logofooter img{
+  height: 45px;
+  width: 100%;
+}
+
+#logofooter li{
+list-style: none;
+/* margin-left: 18px; */
+}
+#logofooter i{
+color: #ff7900;
+font-size: 20px;
+}
+
+hr{
+
+  /* height: 25px; */
+ border: 1.5px solid white;
+  width: 90%;
+  margin: 0 auto;
+}
